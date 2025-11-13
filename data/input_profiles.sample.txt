@@ -1,0 +1,5 @@
+# Sample GitHub profile URLs (one per line).
+# Uncomment and edit these to run the scraper quickly.
+# https://github.com/torvalds
+# https://github.com/rasbt
+# https://github.com/octocat
