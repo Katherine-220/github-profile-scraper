@@ -1,0 +1,6 @@
+{
+  "user_agent": "Mozilla/5.0 (compatible; GitHubProfileScraper/1.0; +https://bitbash.dev)",
+  "request_timeout": 15,
+  "max_retries": 3,
+  "sleep_between_requests": 1.0
+}
